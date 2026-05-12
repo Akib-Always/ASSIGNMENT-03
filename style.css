@@ -1,9 +1,4 @@
-.bk-2{
-    background-image: url(../c1-assets/cute-pet-mid.png);
-    background-position: right bottom;
-    background-repeat: no-repeat;
-    
-}
+
 .animation{
     position: relative;
     animation-name: myAnimation;
