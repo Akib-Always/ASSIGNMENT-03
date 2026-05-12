@@ -64,3 +64,33 @@
     75%  {left:0px; top:200px;}
     100% {left:0px; top:0px;}
 }
+@media screen and (max-width:600px) {
+    @keyframes myAnimation{
+        0%   {left:0px; top:0px;}
+        25%  {left:0px; top:0px;}
+        50%  {left:0px; top:200px;}
+        75%  {left:0px; top:200px;}
+        100% {left:0px; top:0px;}
+    }
+    @keyframes myAnimatio{
+        0%   {left:0px; top:0px;}
+        25%  {left:0px; top:0px;}
+        50%  {left:0px; top:200px;}
+        75%  {left:0px; top:200px;}
+        100% {left:0px; top:0px;}
+    }
+    @keyframes myAnimati{
+        0%   {left:0px; top:0px;}
+        25%  {left:0px; top:0px;}
+        50%  {left:0px; top:200px;}
+        75%  {left:0px; top:200px;}
+        100% {left:0px; top:0px;}
+    }
+    @keyframes myAnimat{
+        0%   {left:0px; top:0px;}
+        25%  {left:0px; top:0px;}
+        50%  {left:0px; top:200px;}
+        75%  {left:0px; top:200px;}
+        100% {left:0px; top:0px;}
+    }
+}
